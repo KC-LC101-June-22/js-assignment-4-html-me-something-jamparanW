@@ -1,1 +1,13 @@
 /* Write your CSS here! */
+body {
+    width: 100%;
+	max-width: 1024px;
+	margin: 8px;
+	background-color: #999;
+	font-size: 62.5%;
+    display: block;
+}
+img {
+    max-width: 580px;
+    max-height: 580px;
+}
