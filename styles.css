@@ -1,1 +1,41 @@
-/* Write your CSS here! */
+main {
+    background-color: honeydew;
+}
+body {
+    margin: 8px;
+    display: block;
+}
+article, aside {
+    width: 1024px;
+    margin: 0 auto;
+    background: rgb(248, 225, 225);
+}
+h1, h2, p, figcaption {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+figcaption {
+    font-size: 15px;
+}
+h2, p {
+    font-size: 20px;
+}
+h1 {
+    font-size: 35px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#mainHeading {
+    color: red;
+}
+p.funParagraph {
+    color: green;
+}
+
+img {
+    max-width: 952px;
+}
